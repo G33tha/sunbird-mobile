@@ -4,6 +4,7 @@
 [![Build Status](https://travis-ci.org/project-sunbird/sunbird-mobile.svg?branch=master)](https://travis-ci.org/project-sunbird/sunbird-mobile)
 
 ### Follow the below steps for setup in your local system.
+#########
 
 #### Dependencies
 * NPM Version - 3.5.2
@@ -22,7 +23,7 @@
 * `npm pack .`
 * it should create a npm module in tarball zip format.
 
-#### Setup sunbird-mobile
+#### Setup sunbird-mobile.
 * git clone the repo.
 * rename **sunbird.properties.example** file to **sunbird.properties** and put all the valid credentials and api endpoint.
 * go to project folder and run **npm i**
